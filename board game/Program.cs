@@ -5,7 +5,7 @@ public class Player
     public int Position { get; set; }
     public int Score { get; set; }
 }
-
+ 
 class Board
 {
     public int Size { get; set; }
